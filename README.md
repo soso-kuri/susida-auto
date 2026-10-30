@@ -129,7 +129,12 @@ py -m pip install keyboard mss Pillow pyautogui
 
 ### ライセンス
 
-**未設定**です。公開前に、作者が希望するライセンスを決め、`LICENSE` ファイルを追加してください。ライセンスを付けずにGitHubで公開しても、第三者に自由な再利用・再配布の権利が自動的に与えられるわけではありません。
+本プロジェクトはMITライセンスで公開されています。
+ソフトウェアの使用、改変、再配布、商用利用が可能です。
+
+ただし、著作権表示およびライセンス表示を保持する必要があります。
+
+詳細は [LICENSE](LICENSE) をご確認ください。
 
 ---
 
@@ -247,4 +252,9 @@ These are configuration presets, **not guaranteed measured typing speeds**. Real
 
 ### License
 
-**Not yet specified.** Before publishing, choose a license and add a `LICENSE` file. Uploading code to GitHub without a license does not automatically permit others to reuse or redistribute it.
+This project is licensed under the MIT License.
+
+You are free to use, modify, distribute, and use this software commercially,
+provided that the original copyright notice and license notice are retained.
+
+For details, see [LICENSE](LICENSE).
