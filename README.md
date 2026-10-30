@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34178981/README.md)
 # Sushi-Da OCR Auto Typer (Python)
 
 [日本語](#日本語) | [English](#english)
@@ -130,7 +129,7 @@ py -m pip install keyboard mss Pillow pyautogui
 
 ### ライセンス
 
-本プロジェクトはMITライセンスで公開されています。詳細はLICENSEファイルをご確認ください。
+**未設定**です。公開前に、作者が希望するライセンスを決め、`LICENSE` ファイルを追加してください。ライセンスを付けずにGitHubで公開しても、第三者に自由な再利用・再配布の権利が自動的に与えられるわけではありません。
 
 ---
 
@@ -248,4 +247,4 @@ These are configuration presets, **not guaranteed measured typing speeds**. Real
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+**Not yet specified.** Before publishing, choose a license and add a `LICENSE` file. Uploading code to GitHub without a license does not automatically permit others to reuse or redistribute it.

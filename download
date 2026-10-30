@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OCR debug output and screenshots
+ocr_preview.png
+*.log
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
